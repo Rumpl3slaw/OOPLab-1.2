@@ -1,0 +1,4 @@
+﻿  OOPLab 1.2.cpp
+C:\Універ\Лабораторні\ООП\OOPLab 1.2\OOPLab 1.2\OOPLab 1.2.cpp(50,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Універ\Лабораторні\ООП\OOPLab 1.2\OOPLab 1.2\OOPLab 1.2.cpp(57,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  OOPLab 1.2.vcxproj -> C:\Універ\Лабораторні\ООП\OOPLab 1.2\Debug\OOPLab 1.2.exe
